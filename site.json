@@ -1,0 +1,3543 @@
+{
+    "id": "ebc95d51-dad1-4ece-9ff6-9ea151969ef1",
+    "title": "womp",
+    "author": "",
+    "description": "gitbook import",
+    "license": "by-sa",
+    "metadata": {
+        "author": {},
+        "site": {
+            "name": "womp",
+            "logo": "assets\/banner.jpg",
+            "settings": {
+                "lang": "en-US",
+                "publishPagesOn": true
+            },
+            "created": 1744330855,
+            "updated": 1744330855,
+            "git": {}
+        },
+        "theme": {
+            "element": "clean-one",
+            "path": "@haxtheweb\/clean-one\/clean-one.js",
+            "name": "Clean course theme",
+            "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/BlueStyle.svg",
+            "variables": {
+                "icon": "av:radio",
+                "hexCode": "#aeff00",
+                "cssVariable": "--simple-colors-default-theme-light-blue-7"
+            }
+        },
+        "node": {
+            "fields": {}
+        },
+        "build": {
+            "version": "10.0.2",
+            "structure": "import",
+            "type": "gitbook"
+        }
+    },
+    "items": [
+        {
+            "id": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "indent": 0,
+            "location": "pages\/item-508f634b-0167-4b87-a57b-f6f41f096969\/index.html",
+            "slug": "readme-md",
+            "order": "1",
+            "parent": null,
+            "title": "Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-2d72a35c-de4d-47b9-888e-9a0a229adeab",
+            "indent": "1",
+            "location": "pages\/item-2d72a35c-de4d-47b9-888e-9a0a229adeab\/index.html",
+            "slug": "introduction\/about-this-course-md",
+            "order": "1",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "About this course",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-96179537-c777-46ad-87d5-1dfb3f2516a8",
+            "indent": "1",
+            "location": "pages\/item-96179537-c777-46ad-87d5-1dfb3f2516a8\/index.html",
+            "slug": "introduction\/digital_multimedia_design-md",
+            "order": "3",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Digital Multimedia Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f8c90a8e-ceea-4453-9976-e02f13856c05",
+            "indent": "1",
+            "location": "pages\/item-f8c90a8e-ceea-4453-9976-e02f13856c05\/index.html",
+            "slug": "introduction\/instructor-md",
+            "order": "5",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Course instructor",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3e1ebd5d-3a05-4a64-aec4-f9dd1c9ecef2",
+            "indent": "1",
+            "location": "pages\/item-3e1ebd5d-3a05-4a64-aec4-f9dd1c9ecef2\/index.html",
+            "slug": "introduction\/measuring_success-md",
+            "order": "7",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Measuring success",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-657eae80-2192-43af-98ed-22a08e2d6a14",
+            "indent": "1",
+            "location": "pages\/item-657eae80-2192-43af-98ed-22a08e2d6a14\/index.html",
+            "slug": "introduction\/learning-objectives-md",
+            "order": "9",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Learning objectives",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-29aba5cc-8388-405c-bab5-45785c6ae1eb",
+            "indent": "1",
+            "location": "pages\/item-29aba5cc-8388-405c-bab5-45785c6ae1eb\/index.html",
+            "slug": "introduction\/projects-md",
+            "order": "11",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Projects",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-8b46e9ca-0b4d-45a6-8295-4dce659c98d0",
+            "indent": "1",
+            "location": "pages\/item-8b46e9ca-0b4d-45a6-8295-4dce659c98d0\/index.html",
+            "slug": "introduction\/feedback-and-critique-md",
+            "order": "13",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Feedback and critique",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6dfcbc08-0e4c-40e9-be50-423b97a95fbb",
+            "indent": "1",
+            "location": "pages\/item-6dfcbc08-0e4c-40e9-be50-423b97a95fbb\/index.html",
+            "slug": "introduction\/technology-md",
+            "order": "15",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Technology",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ae970758-95ff-439f-a9f1-aac5926e02c4",
+            "indent": "1",
+            "location": "pages\/item-ae970758-95ff-439f-a9f1-aac5926e02c4\/index.html",
+            "slug": "introduction\/writing_guidelines-md",
+            "order": "17",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Writing Guidelines",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-41999797-3257-4125-aed0-0ecd00f7d98b",
+            "indent": "1",
+            "location": "pages\/item-41999797-3257-4125-aed0-0ecd00f7d98b\/index.html",
+            "slug": "introduction\/requirements-md",
+            "order": "19",
+            "parent": "item-508f634b-0167-4b87-a57b-f6f41f096969",
+            "title": "Requirements",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-119966ea-3a3b-4cfd-b417-e6345653babc",
+            "indent": "1",
+            "location": "pages\/item-119966ea-3a3b-4cfd-b417-e6345653babc\/index.html",
+            "slug": "topics\/what_is_design-md",
+            "order": "1",
+            "parent": "item-202640e3-697b-4d14-b87f-9d5f0a27c0f3",
+            "title": "What is design?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6756c667-6121-4620-af8f-024c0037343d",
+            "indent": "2",
+            "location": "pages\/item-6756c667-6121-4620-af8f-024c0037343d\/index.html",
+            "slug": "topics\/what_is_design-md-1",
+            "order": "1",
+            "parent": "item-119966ea-3a3b-4cfd-b417-e6345653babc",
+            "title": "What is design?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-343581de-e67e-47ac-a348-04fb9dd33f05",
+            "indent": "2",
+            "location": "pages\/item-343581de-e67e-47ac-a348-04fb9dd33f05\/index.html",
+            "slug": "topics\/design_thinking-md",
+            "order": "3",
+            "parent": "item-119966ea-3a3b-4cfd-b417-e6345653babc",
+            "title": "Design thinking",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6df5315a-6d01-450a-a870-a81e203b19e0",
+            "indent": "2",
+            "location": "pages\/item-6df5315a-6d01-450a-a870-a81e203b19e0\/index.html",
+            "slug": "topics\/systems_thinking-md",
+            "order": "5",
+            "parent": "item-119966ea-3a3b-4cfd-b417-e6345653babc",
+            "title": "Systems thinking",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-634a74f9-c587-4a83-a175-2a6f9c48f48d",
+            "indent": "2",
+            "location": "pages\/item-634a74f9-c587-4a83-a175-2a6f9c48f48d\/index.html",
+            "slug": "topics\/critical_thinking-md",
+            "order": "7",
+            "parent": "item-119966ea-3a3b-4cfd-b417-e6345653babc",
+            "title": "Critical thinking",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-8ba0366f-560c-4de8-b9ce-71efe8173f37",
+            "indent": "2",
+            "location": "pages\/item-8ba0366f-560c-4de8-b9ce-71efe8173f37\/index.html",
+            "slug": "topics\/design-process-md",
+            "order": "9",
+            "parent": "item-119966ea-3a3b-4cfd-b417-e6345653babc",
+            "title": "Design process",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-5da6b165-a084-47f0-b053-0d30b54dc4be",
+            "indent": "2",
+            "location": "pages\/item-5da6b165-a084-47f0-b053-0d30b54dc4be\/index.html",
+            "slug": "reading-reflections\/chapter_1_sen_rikyu_and_the_paradox_of_innovation-md-1",
+            "order": "1",
+            "parent": "item-3a362cb5-5b92-4573-8ee6-0a7dcdd7e4a7",
+            "title": "Chapter 1&amp;2. Sen Rikyu and the Paradox of Innovation",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-45e96a9f-8efa-47d8-84e6-e0cb2b4744a5",
+            "indent": "2",
+            "location": "pages\/item-45e96a9f-8efa-47d8-84e6-e0cb2b4744a5\/index.html",
+            "slug": "practice\/daily_design_journal-md-1",
+            "order": "1",
+            "parent": "item-822860e2-09ae-4109-bcb8-9f697c1bba66",
+            "title": "Daily design journal",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-e57cc47a-df55-4764-840a-e270bf2dad2f",
+            "indent": "2",
+            "location": "pages\/item-e57cc47a-df55-4764-840a-e270bf2dad2f\/index.html",
+            "slug": "listening\/creative_mornings_design_is_magical-md-1",
+            "order": "1",
+            "parent": "item-cebc104c-db43-4912-8060-7f982c34ef8c",
+            "title": "Creative Mornings: Design Is Magical",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-a07953cc-5a2a-4921-9a9d-85bd3ffee67d",
+            "indent": "2",
+            "location": "pages\/item-a07953cc-5a2a-4921-9a9d-85bd3ffee67d\/index.html",
+            "slug": "lessons\/what-is-design\/end_of_lesson_discussion-md-1",
+            "order": "1",
+            "parent": "item-e49ff78e-2dde-4319-8023-b9dc4edad9ba",
+            "title": "End of lesson discussion",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "indent": "1",
+            "location": "pages\/item-d61feb92-3362-45f4-9ce5-df66b2515603\/index.html",
+            "slug": "topics\/semiotics-md",
+            "order": "1",
+            "parent": "item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3",
+            "title": "Semiotics",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-562dfb4a-6b20-40ec-a6b0-16d05ab07fe0",
+            "indent": "2",
+            "location": "pages\/item-562dfb4a-6b20-40ec-a6b0-16d05ab07fe0\/index.html",
+            "slug": "topics\/semiotics-md-1",
+            "order": "1",
+            "parent": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "title": "Semiotics",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7f2755c0-df94-4983-bbdd-591c0dd3e900",
+            "indent": "2",
+            "location": "pages\/item-7f2755c0-df94-4983-bbdd-591c0dd3e900\/index.html",
+            "slug": "topics\/inclusive-design-md",
+            "order": "3",
+            "parent": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "title": "Inclusive design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-4a21352b-a09d-41de-a0a6-b970fee98bae",
+            "indent": "2",
+            "location": "pages\/item-4a21352b-a09d-41de-a0a6-b970fee98bae\/index.html",
+            "slug": "topics\/interaction_design-md",
+            "order": "5",
+            "parent": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "title": "Interaction design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7d649370-560e-4227-815b-b94edc47418a",
+            "indent": "2",
+            "location": "pages\/item-7d649370-560e-4227-815b-b94edc47418a\/index.html",
+            "slug": "topics\/critical_design-md",
+            "order": "7",
+            "parent": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "title": "Critical design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f9cfcf1a-081a-4307-8abb-20287b829295",
+            "indent": "2",
+            "location": "pages\/item-f9cfcf1a-081a-4307-8abb-20287b829295\/index.html",
+            "slug": "topics\/visual_design-md",
+            "order": "9",
+            "parent": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "title": "Visual design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-020dd157-afb9-41e9-b2fe-4bf4d8ebd5e4",
+            "indent": "2",
+            "location": "pages\/item-020dd157-afb9-41e9-b2fe-4bf4d8ebd5e4\/index.html",
+            "slug": "topics\/identity-design-md",
+            "order": "11",
+            "parent": "item-d61feb92-3362-45f4-9ce5-df66b2515603",
+            "title": "Identity design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-8b57152a-e94a-43da-84dd-f01197d5cc08",
+            "indent": "2",
+            "location": "pages\/item-8b57152a-e94a-43da-84dd-f01197d5cc08\/index.html",
+            "slug": "reading-reflections\/chapter_3_what_design_and_truth_say_about_each_other-md-1",
+            "order": "1",
+            "parent": "item-d809b45d-476d-4ec9-9058-318ce64ac74d",
+            "title": "Chapter 3. What Design and Truth Say About Each Other",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-b0ce5570-e787-4601-b651-1a01931a5d4e",
+            "indent": "2",
+            "location": "pages\/item-b0ce5570-e787-4601-b651-1a01931a5d4e\/index.html",
+            "slug": "lessons\/introduction-visual-and-interaction-design\/vox-its-not-you-bad-doors-are-everywhere-md-1",
+            "order": "1",
+            "parent": "item-1648e716-1243-4407-a7cc-7c50ab716829",
+            "title": "VOX: It's not you. Bad doors are everywhere.",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f42b32df-8845-4447-b4cc-b1d1c2038e83",
+            "indent": "2",
+            "location": "pages\/item-f42b32df-8845-4447-b4cc-b1d1c2038e83\/index.html",
+            "slug": "listening\/99-percent-invisible-on-average-md-1",
+            "order": "1",
+            "parent": "item-140e2130-5359-4b5a-b710-77f46f5794fe",
+            "title": "99 Percent Invisible: On Average",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ab973e33-a0ce-48e9-b795-44c01ba3e3ac",
+            "indent": "2",
+            "location": "pages\/item-ab973e33-a0ce-48e9-b795-44c01ba3e3ac\/index.html",
+            "slug": "projects\/ritual\/ritual_project-md-1",
+            "order": "1",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Ritual Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7",
+            "indent": "1",
+            "location": "pages\/item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7\/index.html",
+            "slug": "topics\/narrative-md",
+            "order": "1",
+            "parent": "item-7faf883b-3690-484a-93d2-0de90cd0b334",
+            "title": "Why stories?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-b5860ef3-4e09-43c1-b47e-6b87e755aa5e",
+            "indent": "2",
+            "location": "pages\/item-b5860ef3-4e09-43c1-b47e-6b87e755aa5e\/index.html",
+            "slug": "topics\/narrative-md-1",
+            "order": "1",
+            "parent": "item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7",
+            "title": "Why stories?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-bf84992f-c221-45e3-967f-6ab1bf64d1c6",
+            "indent": "2",
+            "location": "pages\/item-bf84992f-c221-45e3-967f-6ab1bf64d1c6\/index.html",
+            "slug": "topics\/narrative_structure-md",
+            "order": "3",
+            "parent": "item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7",
+            "title": "Story structure",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-36e9d64f-7950-4069-831a-df1fd07b186b",
+            "indent": "2",
+            "location": "pages\/item-36e9d64f-7950-4069-831a-df1fd07b186b\/index.html",
+            "slug": "topics\/organizing_story_development-md",
+            "order": "5",
+            "parent": "item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7",
+            "title": "Story development",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-4c91c482-b32e-4539-a6a8-c0866c03f9e9",
+            "indent": "2",
+            "location": "pages\/item-4c91c482-b32e-4539-a6a8-c0866c03f9e9\/index.html",
+            "slug": "topics\/character-md",
+            "order": "7",
+            "parent": "item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7",
+            "title": "Character",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-c7e77820-a4e7-4091-96c9-83ad6adfe9a9",
+            "indent": "2",
+            "location": "pages\/item-c7e77820-a4e7-4091-96c9-83ad6adfe9a9\/index.html",
+            "slug": "topics\/narrative-media-md",
+            "order": "9",
+            "parent": "item-35080a4c-cfc2-4e21-b3da-cf4249eba9b7",
+            "title": "Narrative media",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-8d8b6d5d-31e8-4d7a-873a-5de36068cb77",
+            "indent": "2",
+            "location": "pages\/item-8d8b6d5d-31e8-4d7a-873a-5de36068cb77\/index.html",
+            "slug": "reading-reflections\/chapter_8_giorgio_vasari_and_the_permutations_of_design-md-1",
+            "order": "1",
+            "parent": "item-618b01f0-2814-48b7-a0af-83ecfffdf242",
+            "title": "Chapter 8. Giorgio Vasari and the Permutations of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-66279cc6-06ae-4280-ac92-ea5ddae37593",
+            "indent": "2",
+            "location": "pages\/item-66279cc6-06ae-4280-ac92-ea5ddae37593\/index.html",
+            "slug": "watching\/creative-mornings-jordan-tannahill-md-1",
+            "order": "1",
+            "parent": "item-fb95a60a-3cdd-49a6-b6e1-b29fc88acf9c",
+            "title": "Creative Mornings: Jordan Tannahill",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-e34a9ed1-1c92-4641-92a8-d084c3be0863",
+            "indent": "2",
+            "location": "pages\/item-e34a9ed1-1c92-4641-92a8-d084c3be0863\/index.html",
+            "slug": "listening\/99_percent_invisible_of_mice_and_men-md-1",
+            "order": "1",
+            "parent": "item-fd604aa2-5987-4ea5-a243-a1bc82e065ee",
+            "title": "99 Percent Invisible: Of Mice and Men",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-cc973ec2-5f71-49e6-8798-79036078f19d",
+            "indent": "2",
+            "location": "pages\/item-cc973ec2-5f71-49e6-8798-79036078f19d\/index.html",
+            "slug": "projects\/narrative\/hypertext-narrative_civic_imagination_project-md-1",
+            "order": "1",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Hypertext Narrative introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-340b5b20-13ee-4330-adce-948ed43cc033",
+            "indent": "3",
+            "location": "pages\/item-340b5b20-13ee-4330-adce-948ed43cc033\/index.html",
+            "slug": "topics\/twine-tutorial-getting-started-md",
+            "order": "1",
+            "parent": "item-7a015ef4-6fba-427a-8484-ae9aed4863f5",
+            "title": "Twine tutorial: Getting started",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "indent": "1",
+            "location": "pages\/item-d1e870fd-fd70-46ff-8948-18bf84b9fc79\/index.html",
+            "slug": "topics\/open_design-md",
+            "order": "1",
+            "parent": "item-b3b7c367-ebd7-4956-93a2-12e6eadbffec",
+            "title": "Open Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7d90b82f-6fe6-4685-b943-b35c081e00f6",
+            "indent": "2",
+            "location": "pages\/item-7d90b82f-6fe6-4685-b943-b35c081e00f6\/index.html",
+            "slug": "topics\/open_design-md-1",
+            "order": "1",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Open Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-b011826a-a521-4c7e-affc-0c924747d7ff",
+            "indent": "2",
+            "location": "pages\/item-b011826a-a521-4c7e-affc-0c924747d7ff\/index.html",
+            "slug": "topics\/into-the-open-md",
+            "order": "3",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Into the Open",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-17fcfed5-c4a6-4598-9056-936659816bd7",
+            "indent": "2",
+            "location": "pages\/item-17fcfed5-c4a6-4598-9056-936659816bd7\/index.html",
+            "slug": "topics\/orchestral-manoeuvres-in-design-md",
+            "order": "5",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Orchestral Manoeuvres in Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-1a0dee38-21fe-4054-9d81-31f1436b368a",
+            "indent": "2",
+            "location": "pages\/item-1a0dee38-21fe-4054-9d81-31f1436b368a\/index.html",
+            "slug": "topics\/authors-and-owners-md",
+            "order": "7",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Authors and Owners",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-470888ee-0ac3-40ff-848f-f99984dd0527",
+            "indent": "2",
+            "location": "pages\/item-470888ee-0ac3-40ff-848f-f99984dd0527\/index.html",
+            "slug": "topics\/the-generative-bedrock-of-open-design-md",
+            "order": "9",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "The Generative Bedrock of Open Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-1e18e8e7-febc-471c-991d-ebad74b93fa2",
+            "indent": "2",
+            "location": "pages\/item-1e18e8e7-febc-471c-991d-ebad74b93fa2\/index.html",
+            "slug": "topics\/design-literacy-md",
+            "order": "11",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Design Literacy: Organizing Self-organization",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-a7919db5-f658-4628-988e-eeea30a4ace7",
+            "indent": "2",
+            "location": "pages\/item-a7919db5-f658-4628-988e-eeea30a4ace7\/index.html",
+            "slug": "topics\/teaching-attitudes-approaches-structures-and-skills-md",
+            "order": "13",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Teaching Attitudes, Approaches, Structures and Skills",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-38250989-a052-45c9-a375-56499446728e",
+            "indent": "2",
+            "location": "pages\/item-38250989-a052-45c9-a375-56499446728e\/index.html",
+            "slug": "topics\/joris-laarmans-experiments-with-open-source-design-md",
+            "order": "15",
+            "parent": "item-d1e870fd-fd70-46ff-8948-18bf84b9fc79",
+            "title": "Joris Laarman's Experiments with Open Source Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-5e741685-e624-4e35-929a-e35143ad3283",
+            "indent": "2",
+            "location": "pages\/item-5e741685-e624-4e35-929a-e35143ad3283\/index.html",
+            "slug": "watching\/open-structures-thomas-lommee-md-1",
+            "order": "1",
+            "parent": "item-aa4b5918-4842-4670-9c20-32296af8eb03",
+            "title": "Open Structures: Thomas Lommee",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-cc8fcf4e-a8ce-41d6-a36e-9053ada6f4d5",
+            "indent": "2",
+            "location": "pages\/item-cc8fcf4e-a8ce-41d6-a36e-9053ada6f4d5\/index.html",
+            "slug": "reading-reflections\/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d-md-1",
+            "order": "1",
+            "parent": "item-3d191b89-e687-454c-9f7d-46901abba2a7",
+            "title": "Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-10322303-e983-45c1-b2cd-762b53da1efc",
+            "indent": "2",
+            "location": "pages\/item-10322303-e983-45c1-b2cd-762b53da1efc\/index.html",
+            "slug": "projects\/open_design\/open_design_project-md-1",
+            "order": "1",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Open Design Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6d9518f2-94ca-4d9e-a6c0-2369f3bb9078",
+            "indent": "1",
+            "location": "pages\/item-6d9518f2-94ca-4d9e-a6c0-2369f3bb9078\/index.html",
+            "slug": "reading-reflections\/chapter_15_the_design_of_private_knowledge-md",
+            "order": "1",
+            "parent": "item-29cf3a4f-03c0-42d5-99f9-ca2832ad6b73",
+            "title": "Chapter 15. The Design of Private Knowledge",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7823e898-063d-4bed-b9e9-1cde33da5053",
+            "indent": "2",
+            "location": "pages\/item-7823e898-063d-4bed-b9e9-1cde33da5053\/index.html",
+            "slug": "reading-reflections\/chapter_15_the_design_of_private_knowledge-md-1",
+            "order": "1",
+            "parent": "item-6d9518f2-94ca-4d9e-a6c0-2369f3bb9078",
+            "title": "Chapter 15. The Design of Private Knowledge",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6fef0aff-61fa-44b7-8e59-e678666c5a74",
+            "indent": "2",
+            "location": "pages\/item-6fef0aff-61fa-44b7-8e59-e678666c5a74\/index.html",
+            "slug": "listening\/creative_mornings_creativity_and_the_freedom_to_fa-md-1",
+            "order": "1",
+            "parent": "item-34ba3abc-1fea-4469-a7c5-e6815096c726",
+            "title": "Creative Mornings: Creativity and the Freedom to Fail",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-a46d92b0-9516-4f51-a14c-80ae0088eb65",
+            "indent": "2",
+            "location": "pages\/item-a46d92b0-9516-4f51-a14c-80ae0088eb65\/index.html",
+            "slug": "practice\/pathway-md-1",
+            "order": "1",
+            "parent": "item-3d2e0c4d-65f9-40c7-a30d-dc4ff56435b3",
+            "title": "Pathway design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "indent": 0,
+            "location": "pages\/item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d\/index.html",
+            "slug": "readme-md-1",
+            "order": "1",
+            "parent": null,
+            "title": "Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7640bf18-b3c4-44a8-b012-ad0143b88b41",
+            "indent": "1",
+            "location": "pages\/item-7640bf18-b3c4-44a8-b012-ad0143b88b41\/index.html",
+            "slug": "introduction\/about-this-course-md-1",
+            "order": "1",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "About this course",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-c7a559e9-fc3e-4f73-9dba-08222655a53a",
+            "indent": "1",
+            "location": "pages\/item-c7a559e9-fc3e-4f73-9dba-08222655a53a\/index.html",
+            "slug": "introduction\/digital_multimedia_design-md-1",
+            "order": "3",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Digital Multimedia Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ff036eab-b922-4402-ad68-5a34db632ca9",
+            "indent": "1",
+            "location": "pages\/item-ff036eab-b922-4402-ad68-5a34db632ca9\/index.html",
+            "slug": "introduction\/instructor-md-1",
+            "order": "5",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Course instructor",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-b0da40b0-dc6c-4c7b-9478-26e5da3b69b0",
+            "indent": "1",
+            "location": "pages\/item-b0da40b0-dc6c-4c7b-9478-26e5da3b69b0\/index.html",
+            "slug": "introduction\/measuring_success-md-1",
+            "order": "7",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Measuring success",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-a33414cd-7aaf-42e5-9b28-6091b104b984",
+            "indent": "1",
+            "location": "pages\/item-a33414cd-7aaf-42e5-9b28-6091b104b984\/index.html",
+            "slug": "introduction\/learning-objectives-md-1",
+            "order": "9",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Learning objectives",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-c2efb352-2759-432c-8220-e77012ee2dc2",
+            "indent": "1",
+            "location": "pages\/item-c2efb352-2759-432c-8220-e77012ee2dc2\/index.html",
+            "slug": "introduction\/projects-md-1",
+            "order": "11",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Projects",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-c1fe6f9c-cd97-4044-8eb2-90d3e6b2cade",
+            "indent": "1",
+            "location": "pages\/item-c1fe6f9c-cd97-4044-8eb2-90d3e6b2cade\/index.html",
+            "slug": "introduction\/feedback-and-critique-md-1",
+            "order": "13",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Feedback and critique",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f1d8d94b-cbc3-4820-99c7-2684680e8254",
+            "indent": "1",
+            "location": "pages\/item-f1d8d94b-cbc3-4820-99c7-2684680e8254\/index.html",
+            "slug": "introduction\/technology-md-1",
+            "order": "15",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Technology",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-db64ec82-4198-4565-b21a-99c25889637a",
+            "indent": "1",
+            "location": "pages\/item-db64ec82-4198-4565-b21a-99c25889637a\/index.html",
+            "slug": "introduction\/writing_guidelines-md-1",
+            "order": "17",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Writing Guidelines",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-33da91d7-4039-42e9-8a6f-50c46a7fc98f",
+            "indent": "1",
+            "location": "pages\/item-33da91d7-4039-42e9-8a6f-50c46a7fc98f\/index.html",
+            "slug": "introduction\/requirements-md-1",
+            "order": "19",
+            "parent": "item-6c4f44a0-bbfd-4847-9c1d-d6edc61ec24d",
+            "title": "Requirements",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-adf6545f-20bc-4862-849a-4bf8734900b1",
+            "indent": "1",
+            "location": "pages\/item-adf6545f-20bc-4862-849a-4bf8734900b1\/index.html",
+            "slug": "topics\/what_is_design-md-2",
+            "order": "1",
+            "parent": "item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba",
+            "title": "What is design?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-0b0ff2d7-cac2-4160-8008-e3bfc5ce902f",
+            "indent": "2",
+            "location": "pages\/item-0b0ff2d7-cac2-4160-8008-e3bfc5ce902f\/index.html",
+            "slug": "topics\/what_is_design-md-3",
+            "order": "1",
+            "parent": "item-adf6545f-20bc-4862-849a-4bf8734900b1",
+            "title": "What is design?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-b60c06f7-a709-47d1-8129-63ebc54cdfec",
+            "indent": "2",
+            "location": "pages\/item-b60c06f7-a709-47d1-8129-63ebc54cdfec\/index.html",
+            "slug": "topics\/design_thinking-md-1",
+            "order": "3",
+            "parent": "item-adf6545f-20bc-4862-849a-4bf8734900b1",
+            "title": "Design thinking",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6b19fb56-24b2-4794-b009-bf4fa07ff851",
+            "indent": "2",
+            "location": "pages\/item-6b19fb56-24b2-4794-b009-bf4fa07ff851\/index.html",
+            "slug": "topics\/systems_thinking-md-1",
+            "order": "5",
+            "parent": "item-adf6545f-20bc-4862-849a-4bf8734900b1",
+            "title": "Systems thinking",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-26712fb7-3b75-40be-b28d-e6ef9b83b1d6",
+            "indent": "2",
+            "location": "pages\/item-26712fb7-3b75-40be-b28d-e6ef9b83b1d6\/index.html",
+            "slug": "topics\/critical_thinking-md-1",
+            "order": "7",
+            "parent": "item-adf6545f-20bc-4862-849a-4bf8734900b1",
+            "title": "Critical thinking",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-60641d7d-3b49-482e-b510-241c9eac9f6f",
+            "indent": "2",
+            "location": "pages\/item-60641d7d-3b49-482e-b510-241c9eac9f6f\/index.html",
+            "slug": "topics\/design-process-md-1",
+            "order": "9",
+            "parent": "item-adf6545f-20bc-4862-849a-4bf8734900b1",
+            "title": "Design process",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-dbb60f4e-51d5-4024-9191-0924e9f81ce9",
+            "indent": "2",
+            "location": "pages\/item-dbb60f4e-51d5-4024-9191-0924e9f81ce9\/index.html",
+            "slug": "reading-reflections\/chapter_1_sen_rikyu_and_the_paradox_of_innovation-md-3",
+            "order": "1",
+            "parent": "item-0e0fa9a7-c221-49bd-89db-7104fd62858f",
+            "title": "Chapter 1&amp;2. Sen Rikyu and the Paradox of Innovation",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ed62cc8c-f834-4007-b1ef-c2d723f218ac",
+            "indent": "2",
+            "location": "pages\/item-ed62cc8c-f834-4007-b1ef-c2d723f218ac\/index.html",
+            "slug": "practice\/daily_design_journal-md-3",
+            "order": "1",
+            "parent": "item-f7a5c990-20b4-41a2-9e6c-b6527eec5eff",
+            "title": "Daily design journal",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-71aeb892-1c90-4fc3-bd2f-dcbd15ab18e8",
+            "indent": "2",
+            "location": "pages\/item-71aeb892-1c90-4fc3-bd2f-dcbd15ab18e8\/index.html",
+            "slug": "listening\/creative_mornings_design_is_magical-md-3",
+            "order": "1",
+            "parent": "item-6db613af-8a94-4df1-a424-956fdbea0359",
+            "title": "Creative Mornings: Design Is Magical",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-fbda31b7-341e-415e-a09e-b2e0af25da6f",
+            "indent": "2",
+            "location": "pages\/item-fbda31b7-341e-415e-a09e-b2e0af25da6f\/index.html",
+            "slug": "lessons\/what-is-design\/end_of_lesson_discussion-md-3",
+            "order": "1",
+            "parent": "item-8d6ff2b7-1e6d-4ac2-9330-12ea14543e7c",
+            "title": "End of lesson discussion",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "indent": "1",
+            "location": "pages\/item-089fc82b-e886-487f-a81e-3248f19f5760\/index.html",
+            "slug": "topics\/semiotics-md-2",
+            "order": "1",
+            "parent": "item-0e7d0b23-3f5d-4899-929d-aad42eae6af6",
+            "title": "Semiotics",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-4072aba1-cab6-4045-8032-0fa465582950",
+            "indent": "2",
+            "location": "pages\/item-4072aba1-cab6-4045-8032-0fa465582950\/index.html",
+            "slug": "topics\/semiotics-md-3",
+            "order": "1",
+            "parent": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "title": "Semiotics",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-6e222ffa-f45f-43f3-9c03-df8520342345",
+            "indent": "2",
+            "location": "pages\/item-6e222ffa-f45f-43f3-9c03-df8520342345\/index.html",
+            "slug": "topics\/inclusive-design-md-1",
+            "order": "3",
+            "parent": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "title": "Inclusive design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-a040bad2-0313-4d30-97f3-7da1b954ca39",
+            "indent": "2",
+            "location": "pages\/item-a040bad2-0313-4d30-97f3-7da1b954ca39\/index.html",
+            "slug": "topics\/interaction_design-md-1",
+            "order": "5",
+            "parent": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "title": "Interaction design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-85d1bf0f-9ab8-4db6-b06a-01bf46faeb03",
+            "indent": "2",
+            "location": "pages\/item-85d1bf0f-9ab8-4db6-b06a-01bf46faeb03\/index.html",
+            "slug": "topics\/critical_design-md-1",
+            "order": "7",
+            "parent": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "title": "Critical design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-41236cd7-2a9d-4753-a93b-48ac2910e187",
+            "indent": "2",
+            "location": "pages\/item-41236cd7-2a9d-4753-a93b-48ac2910e187\/index.html",
+            "slug": "topics\/visual_design-md-1",
+            "order": "9",
+            "parent": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "title": "Visual design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-a80851d6-f4c6-4eb8-ac33-22bf14d807d3",
+            "indent": "2",
+            "location": "pages\/item-a80851d6-f4c6-4eb8-ac33-22bf14d807d3\/index.html",
+            "slug": "topics\/identity-design-md-1",
+            "order": "11",
+            "parent": "item-089fc82b-e886-487f-a81e-3248f19f5760",
+            "title": "Identity design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-add54fd3-aea5-4a9d-8b87-0980547910e9",
+            "indent": "2",
+            "location": "pages\/item-add54fd3-aea5-4a9d-8b87-0980547910e9\/index.html",
+            "slug": "reading-reflections\/chapter_3_what_design_and_truth_say_about_each_other-md-3",
+            "order": "1",
+            "parent": "item-9d02df00-9501-4503-ba8e-246db0be86c6",
+            "title": "Chapter 3. What Design and Truth Say About Each Other",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-bac94845-dbc7-45c9-b953-ee8d1fb4d85e",
+            "indent": "2",
+            "location": "pages\/item-bac94845-dbc7-45c9-b953-ee8d1fb4d85e\/index.html",
+            "slug": "lessons\/introduction-visual-and-interaction-design\/vox-its-not-you-bad-doors-are-everywhere-md-3",
+            "order": "1",
+            "parent": "item-54c9f50d-0104-41ab-b13f-144a0428c91a",
+            "title": "VOX: It's not you. Bad doors are everywhere.",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-a8aedb9d-cc28-425c-97ff-c9cee54e338c",
+            "indent": "2",
+            "location": "pages\/item-a8aedb9d-cc28-425c-97ff-c9cee54e338c\/index.html",
+            "slug": "listening\/99-percent-invisible-on-average-md-3",
+            "order": "1",
+            "parent": "item-060986e9-b60d-46fa-91e1-344a9b4438f2",
+            "title": "99 Percent Invisible: On Average",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-42d2b9f8-cb2c-4c9b-98cb-773a0f3b466d",
+            "indent": "2",
+            "location": "pages\/item-42d2b9f8-cb2c-4c9b-98cb-773a0f3b466d\/index.html",
+            "slug": "projects\/ritual\/ritual_project-md-3",
+            "order": "1",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Ritual Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-1a167735-d91a-4fa5-b564-463e6b8d0c56",
+            "indent": "1",
+            "location": "pages\/item-1a167735-d91a-4fa5-b564-463e6b8d0c56\/index.html",
+            "slug": "topics\/narrative-md-2",
+            "order": "1",
+            "parent": "item-91cc34b9-bec5-4d9c-8db4-95350e7742e6",
+            "title": "Why stories?",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-a955a17b-403f-4d20-9ed7-932bd7af41bd",
+            "indent": "2",
+            "location": "pages\/item-a955a17b-403f-4d20-9ed7-932bd7af41bd\/index.html",
+            "slug": "topics\/narrative-md-3",
+            "order": "1",
+            "parent": "item-1a167735-d91a-4fa5-b564-463e6b8d0c56",
+            "title": "Why stories?",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-f34ad8ca-f393-40b4-881f-c2716737100a",
+            "indent": "2",
+            "location": "pages\/item-f34ad8ca-f393-40b4-881f-c2716737100a\/index.html",
+            "slug": "topics\/narrative_structure-md-1",
+            "order": "3",
+            "parent": "item-1a167735-d91a-4fa5-b564-463e6b8d0c56",
+            "title": "Story structure",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-8f02004a-a14e-45c4-8ddd-956312d1c7b1",
+            "indent": "2",
+            "location": "pages\/item-8f02004a-a14e-45c4-8ddd-956312d1c7b1\/index.html",
+            "slug": "topics\/organizing_story_development-md-1",
+            "order": "5",
+            "parent": "item-1a167735-d91a-4fa5-b564-463e6b8d0c56",
+            "title": "Story development",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-56e112be-33b4-42aa-b6b1-7c63c6d8c791",
+            "indent": "2",
+            "location": "pages\/item-56e112be-33b4-42aa-b6b1-7c63c6d8c791\/index.html",
+            "slug": "topics\/character-md-1",
+            "order": "7",
+            "parent": "item-1a167735-d91a-4fa5-b564-463e6b8d0c56",
+            "title": "Character",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-014d16fe-7835-4c6c-b617-0a17bdbb8bd5",
+            "indent": "2",
+            "location": "pages\/item-014d16fe-7835-4c6c-b617-0a17bdbb8bd5\/index.html",
+            "slug": "topics\/narrative-media-md-1",
+            "order": "9",
+            "parent": "item-1a167735-d91a-4fa5-b564-463e6b8d0c56",
+            "title": "Narrative media",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-df468e18-2640-4576-8e07-6373b23c960f",
+            "indent": "2",
+            "location": "pages\/item-df468e18-2640-4576-8e07-6373b23c960f\/index.html",
+            "slug": "reading-reflections\/chapter_8_giorgio_vasari_and_the_permutations_of_design-md-3",
+            "order": "1",
+            "parent": "item-ad3268d7-f8ac-4e85-88ae-e0111e205561",
+            "title": "Chapter 8. Giorgio Vasari and the Permutations of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-ac62b9b8-9361-4e78-b010-436fb5c94e4b",
+            "indent": "2",
+            "location": "pages\/item-ac62b9b8-9361-4e78-b010-436fb5c94e4b\/index.html",
+            "slug": "watching\/creative-mornings-jordan-tannahill-md-3",
+            "order": "1",
+            "parent": "item-bddf2440-e94d-4ced-a91f-f864ba0b02b5",
+            "title": "Creative Mornings: Jordan Tannahill",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-d85ef5f4-056f-46ed-96ec-b1417af1e922",
+            "indent": "2",
+            "location": "pages\/item-d85ef5f4-056f-46ed-96ec-b1417af1e922\/index.html",
+            "slug": "listening\/99_percent_invisible_of_mice_and_men-md-3",
+            "order": "1",
+            "parent": "item-23968e05-85b2-483c-a7da-d2062fe6267e",
+            "title": "99 Percent Invisible: Of Mice and Men",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-12eb5ce3-fefd-43a5-a98b-cfcf04b0d0a3",
+            "indent": "2",
+            "location": "pages\/item-12eb5ce3-fefd-43a5-a98b-cfcf04b0d0a3\/index.html",
+            "slug": "projects\/narrative\/hypertext-narrative_civic_imagination_project-md-3",
+            "order": "1",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Hypertext Narrative introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-ca83d698-2aaf-47ea-aa4f-331141d72010",
+            "indent": "3",
+            "location": "pages\/item-ca83d698-2aaf-47ea-aa4f-331141d72010\/index.html",
+            "slug": "topics\/twine-tutorial-getting-started-md-1",
+            "order": "1",
+            "parent": "item-c991cd57-343e-4ab7-a565-e301cba599f2",
+            "title": "Twine tutorial: Getting started",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "indent": "1",
+            "location": "pages\/item-0b0ca514-ab67-4f8d-928b-f822c1f00f42\/index.html",
+            "slug": "topics\/open_design-md-2",
+            "order": "1",
+            "parent": "item-1e584bfc-4fd2-4d99-b088-c03fec4b1710",
+            "title": "Open Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-b3d4e889-3b92-4b0f-b40b-ef988dcfe368",
+            "indent": "2",
+            "location": "pages\/item-b3d4e889-3b92-4b0f-b40b-ef988dcfe368\/index.html",
+            "slug": "topics\/open_design-md-3",
+            "order": "1",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Open Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-dd516a2d-c8f1-489e-b708-fc74c4330145",
+            "indent": "2",
+            "location": "pages\/item-dd516a2d-c8f1-489e-b708-fc74c4330145\/index.html",
+            "slug": "topics\/into-the-open-md-1",
+            "order": "3",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Into the Open",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-41174a7b-7f36-485e-86e1-5730cd049bf4",
+            "indent": "2",
+            "location": "pages\/item-41174a7b-7f36-485e-86e1-5730cd049bf4\/index.html",
+            "slug": "topics\/orchestral-manoeuvres-in-design-md-1",
+            "order": "5",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Orchestral Manoeuvres in Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-6ad2118d-f828-4166-afba-9ffdf6c1ebcd",
+            "indent": "2",
+            "location": "pages\/item-6ad2118d-f828-4166-afba-9ffdf6c1ebcd\/index.html",
+            "slug": "topics\/authors-and-owners-md-1",
+            "order": "7",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Authors and Owners",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-be6d26d2-7e74-46bf-a4e0-21e1ccfd4b07",
+            "indent": "2",
+            "location": "pages\/item-be6d26d2-7e74-46bf-a4e0-21e1ccfd4b07\/index.html",
+            "slug": "topics\/the-generative-bedrock-of-open-design-md-1",
+            "order": "9",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "The Generative Bedrock of Open Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-43607a65-3b62-4010-b1d7-85c6440040aa",
+            "indent": "2",
+            "location": "pages\/item-43607a65-3b62-4010-b1d7-85c6440040aa\/index.html",
+            "slug": "topics\/design-literacy-md-1",
+            "order": "11",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Design Literacy: Organizing Self-organization",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-06f11010-df48-4364-ae8b-c19c933d0f76",
+            "indent": "2",
+            "location": "pages\/item-06f11010-df48-4364-ae8b-c19c933d0f76\/index.html",
+            "slug": "topics\/teaching-attitudes-approaches-structures-and-skills-md-1",
+            "order": "13",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Teaching Attitudes, Approaches, Structures and Skills",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-bdd02f79-75ef-4a0e-9735-16d8b0023e5e",
+            "indent": "2",
+            "location": "pages\/item-bdd02f79-75ef-4a0e-9735-16d8b0023e5e\/index.html",
+            "slug": "topics\/joris-laarmans-experiments-with-open-source-design-md-1",
+            "order": "15",
+            "parent": "item-0b0ca514-ab67-4f8d-928b-f822c1f00f42",
+            "title": "Joris Laarman's Experiments with Open Source Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-8e17cb15-67fa-4bbe-a037-5365671ac859",
+            "indent": "2",
+            "location": "pages\/item-8e17cb15-67fa-4bbe-a037-5365671ac859\/index.html",
+            "slug": "watching\/open-structures-thomas-lommee-md-3",
+            "order": "1",
+            "parent": "item-60849639-9a89-4a1e-bb44-6829e13ca350",
+            "title": "Open Structures: Thomas Lommee",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-5175263e-8420-4a5e-ac23-13d8404ab62c",
+            "indent": "2",
+            "location": "pages\/item-5175263e-8420-4a5e-ac23-13d8404ab62c\/index.html",
+            "slug": "reading-reflections\/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d-md-3",
+            "order": "1",
+            "parent": "item-10eb2ea3-469b-4d17-97a3-776da64655cd",
+            "title": "Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-50612222-7485-41da-b694-d8d4067ee96e",
+            "indent": "2",
+            "location": "pages\/item-50612222-7485-41da-b694-d8d4067ee96e\/index.html",
+            "slug": "projects\/open_design\/open_design_project-md-3",
+            "order": "1",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Open Design Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-6fd4d8ad-86f7-400d-bca3-e3694ad339ad",
+            "indent": "1",
+            "location": "pages\/item-6fd4d8ad-86f7-400d-bca3-e3694ad339ad\/index.html",
+            "slug": "reading-reflections\/chapter_15_the_design_of_private_knowledge-md-2",
+            "order": "1",
+            "parent": "item-0ba7fa11-dfef-4ea3-9840-38018eebb9e7",
+            "title": "Chapter 15. The Design of Private Knowledge",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-30aac720-01df-4370-bd24-2ce0bf32d62c",
+            "indent": "2",
+            "location": "pages\/item-30aac720-01df-4370-bd24-2ce0bf32d62c\/index.html",
+            "slug": "reading-reflections\/chapter_15_the_design_of_private_knowledge-md-3",
+            "order": "1",
+            "parent": "item-6fd4d8ad-86f7-400d-bca3-e3694ad339ad",
+            "title": "Chapter 15. The Design of Private Knowledge",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-5231e7e9-c6c5-467d-88ee-4b8aad199123",
+            "indent": "2",
+            "location": "pages\/item-5231e7e9-c6c5-467d-88ee-4b8aad199123\/index.html",
+            "slug": "listening\/creative_mornings_creativity_and_the_freedom_to_fa-md-3",
+            "order": "1",
+            "parent": "item-ca632687-21ff-42ff-ac2b-b5c8a1152dc4",
+            "title": "Creative Mornings: Creativity and the Freedom to Fail",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-00511635-ee0e-4b33-80f5-6e8f8f7a539a",
+            "indent": "2",
+            "location": "pages\/item-00511635-ee0e-4b33-80f5-6e8f8f7a539a\/index.html",
+            "slug": "practice\/pathway-md-3",
+            "order": "1",
+            "parent": "item-285313ab-e64a-4090-8a95-80bdbc0289e7",
+            "title": "Pathway design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-202640e3-697b-4d14-b87f-9d5f0a27c0f3",
+            "indent": 0,
+            "location": "pages\/item-202640e3-697b-4d14-b87f-9d5f0a27c0f3\/index.html",
+            "slug": "lessons\/introduction-what-is-design-md",
+            "order": "3",
+            "parent": null,
+            "title": "Lesson 1: What is design?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3a362cb5-5b92-4573-8ee6-0a7dcdd7e4a7",
+            "indent": "1",
+            "location": "pages\/item-3a362cb5-5b92-4573-8ee6-0a7dcdd7e4a7\/index.html",
+            "slug": "reading-reflections\/chapter_1_sen_rikyu_and_the_paradox_of_innovation-md",
+            "order": "3",
+            "parent": "item-202640e3-697b-4d14-b87f-9d5f0a27c0f3",
+            "title": "Chapter 1&amp;2. Sen Rikyu and the Paradox of Innovation",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-822860e2-09ae-4109-bcb8-9f697c1bba66",
+            "indent": "1",
+            "location": "pages\/item-822860e2-09ae-4109-bcb8-9f697c1bba66\/index.html",
+            "slug": "practice\/daily_design_journal-md",
+            "order": "5",
+            "parent": "item-202640e3-697b-4d14-b87f-9d5f0a27c0f3",
+            "title": "Daily design journal",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3e23e2f1-8407-45c4-af62-2f67d16f1f04",
+            "indent": "2",
+            "location": "pages\/item-3e23e2f1-8407-45c4-af62-2f67d16f1f04\/index.html",
+            "slug": "practice\/daily-design-journal-report-in-md",
+            "order": "3",
+            "parent": "item-822860e2-09ae-4109-bcb8-9f697c1bba66",
+            "title": "Daily design journal: Report in",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-cebc104c-db43-4912-8060-7f982c34ef8c",
+            "indent": "1",
+            "location": "pages\/item-cebc104c-db43-4912-8060-7f982c34ef8c\/index.html",
+            "slug": "listening\/creative_mornings_design_is_magical-md",
+            "order": "7",
+            "parent": "item-202640e3-697b-4d14-b87f-9d5f0a27c0f3",
+            "title": "Creative Mornings: Design Is Magical",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-adda98ee-ef1e-4a8f-8918-19a86c26b56b",
+            "indent": "2",
+            "location": "pages\/item-adda98ee-ef1e-4a8f-8918-19a86c26b56b\/index.html",
+            "slug": "listening\/lawn_order-md",
+            "order": "3",
+            "parent": "item-cebc104c-db43-4912-8060-7f982c34ef8c",
+            "title": "99 Percent Invisible: Lawn Order",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-e49ff78e-2dde-4319-8023-b9dc4edad9ba",
+            "indent": "1",
+            "location": "pages\/item-e49ff78e-2dde-4319-8023-b9dc4edad9ba\/index.html",
+            "slug": "lessons\/what-is-design\/end_of_lesson_discussion-md",
+            "order": "9",
+            "parent": "item-202640e3-697b-4d14-b87f-9d5f0a27c0f3",
+            "title": "End of lesson discussion",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-d809b45d-476d-4ec9-9058-318ce64ac74d",
+            "indent": "1",
+            "location": "pages\/item-d809b45d-476d-4ec9-9058-318ce64ac74d\/index.html",
+            "slug": "reading-reflections\/chapter_3_what_design_and_truth_say_about_each_other-md",
+            "order": "3",
+            "parent": "item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3",
+            "title": "Chapter 3. What Design and Truth Say About Each Other",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-d47baa5b-7b49-4d62-9b9d-2c19d7c7ffe4",
+            "indent": "2",
+            "location": "pages\/item-d47baa5b-7b49-4d62-9b9d-2c19d7c7ffe4\/index.html",
+            "slug": "reading-reflections\/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers-md",
+            "order": "3",
+            "parent": "item-d809b45d-476d-4ec9-9058-318ce64ac74d",
+            "title": "Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-fe6a4dc0-a681-447b-bc52-20800300ccc9",
+            "indent": "2",
+            "location": "pages\/item-fe6a4dc0-a681-447b-bc52-20800300ccc9\/index.html",
+            "slug": "reading-reflections\/chapter_5_edsels_law_how_bad_design_happens-md",
+            "order": "5",
+            "parent": "item-d809b45d-476d-4ec9-9058-318ce64ac74d",
+            "title": "Chapter 5. Edsel's Law: How Bad Design Happens",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3db9a020-326b-41b7-88e1-6f50d6ee8aad",
+            "indent": "2",
+            "location": "pages\/item-3db9a020-326b-41b7-88e1-6f50d6ee8aad\/index.html",
+            "slug": "reading-reflections\/chapter_6_designs_of_darkness-md",
+            "order": "7",
+            "parent": "item-d809b45d-476d-4ec9-9058-318ce64ac74d",
+            "title": "Chapter 6. Designs of Darkness",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-390db0d2-b642-4f0d-b50c-cbaf907d9980",
+            "indent": "2",
+            "location": "pages\/item-390db0d2-b642-4f0d-b50c-cbaf907d9980\/index.html",
+            "slug": "reading-reflections\/chapter_7_face_to_face_with_design-md",
+            "order": "9",
+            "parent": "item-d809b45d-476d-4ec9-9058-318ce64ac74d",
+            "title": "Chapter 7. Face to Face with Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-9fd3de8f-adce-4fc1-aae3-c2147254f433",
+            "indent": "2",
+            "location": "pages\/item-9fd3de8f-adce-4fc1-aae3-c2147254f433\/index.html",
+            "slug": "listening\/99_percent_invisible_10-000_years-md",
+            "order": "3",
+            "parent": "item-140e2130-5359-4b5a-b710-77f46f5794fe",
+            "title": "99 Percent Invisible: 10,000 Years",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-db38fff6-32ba-4592-8fee-09d6baf564a6",
+            "indent": "2",
+            "location": "pages\/item-db38fff6-32ba-4592-8fee-09d6baf564a6\/index.html",
+            "slug": "projects\/ritual\/ritual-inspiration-md",
+            "order": "3",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Ritual Inspiration",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-618b01f0-2814-48b7-a0af-83ecfffdf242",
+            "indent": "1",
+            "location": "pages\/item-618b01f0-2814-48b7-a0af-83ecfffdf242\/index.html",
+            "slug": "reading-reflections\/chapter_8_giorgio_vasari_and_the_permutations_of_design-md",
+            "order": "3",
+            "parent": "item-7faf883b-3690-484a-93d2-0de90cd0b334",
+            "title": "Chapter 8. Giorgio Vasari and the Permutations of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-2fe4603d-be33-4514-abf0-d690b4835ed0",
+            "indent": "2",
+            "location": "pages\/item-2fe4603d-be33-4514-abf0-d690b4835ed0\/index.html",
+            "slug": "reading-reflections\/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r-md",
+            "order": "3",
+            "parent": "item-618b01f0-2814-48b7-a0af-83ecfffdf242",
+            "title": "Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-abdb6afd-c46c-4b8f-90b4-dc5df70ed808",
+            "indent": "2",
+            "location": "pages\/item-abdb6afd-c46c-4b8f-90b4-dc5df70ed808\/index.html",
+            "slug": "reading-reflections\/chapter_10_in_jeffersons_footsteps_modes_of_self-design-md",
+            "order": "5",
+            "parent": "item-618b01f0-2814-48b7-a0af-83ecfffdf242",
+            "title": "Chapter 10. In Jefferson's Footsteps: Modes of Self-Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-11093090-2d86-4d94-9e5c-b9f42c43e9a6",
+            "indent": "2",
+            "location": "pages\/item-11093090-2d86-4d94-9e5c-b9f42c43e9a6\/index.html",
+            "slug": "watching\/andrew-stanton-the-clues-to-a-great-story-md",
+            "order": "3",
+            "parent": "item-fb95a60a-3cdd-49a6-b6e1-b29fc88acf9c",
+            "title": "Andrew Stanton: The clues to a great story",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ed344e18-f178-4e96-b7c6-e532f9663f30",
+            "indent": "2",
+            "location": "pages\/item-ed344e18-f178-4e96-b7c6-e532f9663f30\/index.html",
+            "slug": "projects\/narrative\/narrative-inspiration-md",
+            "order": "3",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Narrative Inspiration",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-aa4b5918-4842-4670-9c20-32296af8eb03",
+            "indent": "1",
+            "location": "pages\/item-aa4b5918-4842-4670-9c20-32296af8eb03\/index.html",
+            "slug": "watching\/open-structures-thomas-lommee-md",
+            "order": "3",
+            "parent": "item-b3b7c367-ebd7-4956-93a2-12e6eadbffec",
+            "title": "Open Structures: Thomas Lommee",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-768177eb-6903-4289-99b3-92a859368953",
+            "indent": "2",
+            "location": "pages\/item-768177eb-6903-4289-99b3-92a859368953\/index.html",
+            "slug": "reading-reflections\/chapter_12_liberty_as_knowledge_design-md",
+            "order": "3",
+            "parent": "item-3d191b89-e687-454c-9f7d-46901abba2a7",
+            "title": "Chapter 12. Liberty as Knowledge Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-49222a36-c690-4dcc-9ffd-ce80f36e0106",
+            "indent": "2",
+            "location": "pages\/item-49222a36-c690-4dcc-9ffd-ce80f36e0106\/index.html",
+            "slug": "projects\/open_design\/discover-toy-design-research-md",
+            "order": "3",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Discover: Toy Design Research",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-34ba3abc-1fea-4469-a7c5-e6815096c726",
+            "indent": "1",
+            "location": "pages\/item-34ba3abc-1fea-4469-a7c5-e6815096c726\/index.html",
+            "slug": "listening\/creative_mornings_creativity_and_the_freedom_to_fa-md",
+            "order": "3",
+            "parent": "item-29cf3a4f-03c0-42d5-99f9-ca2832ad6b73",
+            "title": "Creative Mornings: Creativity and the Freedom to Fail",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f7f326c8-3ffb-48f3-bb16-f44e64a6187b",
+            "indent": "2",
+            "location": "pages\/item-f7f326c8-3ffb-48f3-bb16-f44e64a6187b\/index.html",
+            "slug": "listening\/freakonomics-how-to-become-great-at-just-about-anything-md",
+            "order": "3",
+            "parent": "item-34ba3abc-1fea-4469-a7c5-e6815096c726",
+            "title": "Freakonomics: How to Become Great at Just About Anything",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba",
+            "indent": 0,
+            "location": "pages\/item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba\/index.html",
+            "slug": "lessons\/introduction-what-is-design-md-1",
+            "order": "3",
+            "parent": null,
+            "title": "Lesson 1: What is design?",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-0e0fa9a7-c221-49bd-89db-7104fd62858f",
+            "indent": "1",
+            "location": "pages\/item-0e0fa9a7-c221-49bd-89db-7104fd62858f\/index.html",
+            "slug": "reading-reflections\/chapter_1_sen_rikyu_and_the_paradox_of_innovation-md-2",
+            "order": "3",
+            "parent": "item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba",
+            "title": "Chapter 1&amp;2. Sen Rikyu and the Paradox of Innovation",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f7a5c990-20b4-41a2-9e6c-b6527eec5eff",
+            "indent": "1",
+            "location": "pages\/item-f7a5c990-20b4-41a2-9e6c-b6527eec5eff\/index.html",
+            "slug": "practice\/daily_design_journal-md-2",
+            "order": "5",
+            "parent": "item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba",
+            "title": "Daily design journal",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-fc380409-2bf0-4082-af6f-c34e045e192b",
+            "indent": "2",
+            "location": "pages\/item-fc380409-2bf0-4082-af6f-c34e045e192b\/index.html",
+            "slug": "practice\/daily-design-journal-report-in-md-1",
+            "order": "3",
+            "parent": "item-f7a5c990-20b4-41a2-9e6c-b6527eec5eff",
+            "title": "Daily design journal: Report in",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-6db613af-8a94-4df1-a424-956fdbea0359",
+            "indent": "1",
+            "location": "pages\/item-6db613af-8a94-4df1-a424-956fdbea0359\/index.html",
+            "slug": "listening\/creative_mornings_design_is_magical-md-2",
+            "order": "7",
+            "parent": "item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba",
+            "title": "Creative Mornings: Design Is Magical",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-a74ab884-42f3-4593-9cdc-85f226ffb130",
+            "indent": "2",
+            "location": "pages\/item-a74ab884-42f3-4593-9cdc-85f226ffb130\/index.html",
+            "slug": "listening\/lawn_order-md-1",
+            "order": "3",
+            "parent": "item-6db613af-8a94-4df1-a424-956fdbea0359",
+            "title": "99 Percent Invisible: Lawn Order",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-8d6ff2b7-1e6d-4ac2-9330-12ea14543e7c",
+            "indent": "1",
+            "location": "pages\/item-8d6ff2b7-1e6d-4ac2-9330-12ea14543e7c\/index.html",
+            "slug": "lessons\/what-is-design\/end_of_lesson_discussion-md-2",
+            "order": "9",
+            "parent": "item-30b5bbf8-de1b-43e4-83a7-069631e8d9ba",
+            "title": "End of lesson discussion",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-9d02df00-9501-4503-ba8e-246db0be86c6",
+            "indent": "1",
+            "location": "pages\/item-9d02df00-9501-4503-ba8e-246db0be86c6\/index.html",
+            "slug": "reading-reflections\/chapter_3_what_design_and_truth_say_about_each_other-md-2",
+            "order": "3",
+            "parent": "item-0e7d0b23-3f5d-4899-929d-aad42eae6af6",
+            "title": "Chapter 3. What Design and Truth Say About Each Other",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-fe3a3408-ec07-4e96-bd4e-aa3137593c4e",
+            "indent": "2",
+            "location": "pages\/item-fe3a3408-ec07-4e96-bd4e-aa3137593c4e\/index.html",
+            "slug": "reading-reflections\/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers-md-1",
+            "order": "3",
+            "parent": "item-9d02df00-9501-4503-ba8e-246db0be86c6",
+            "title": "Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-659da35a-c649-42d6-85ba-c0e3478cb36a",
+            "indent": "2",
+            "location": "pages\/item-659da35a-c649-42d6-85ba-c0e3478cb36a\/index.html",
+            "slug": "reading-reflections\/chapter_5_edsels_law_how_bad_design_happens-md-1",
+            "order": "5",
+            "parent": "item-9d02df00-9501-4503-ba8e-246db0be86c6",
+            "title": "Chapter 5. Edsel's Law: How Bad Design Happens",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-b89075fa-648d-4a34-9864-6d99614c90a9",
+            "indent": "2",
+            "location": "pages\/item-b89075fa-648d-4a34-9864-6d99614c90a9\/index.html",
+            "slug": "reading-reflections\/chapter_6_designs_of_darkness-md-1",
+            "order": "7",
+            "parent": "item-9d02df00-9501-4503-ba8e-246db0be86c6",
+            "title": "Chapter 6. Designs of Darkness",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-7c61425c-5fcb-438e-91d7-e9596b1367ed",
+            "indent": "2",
+            "location": "pages\/item-7c61425c-5fcb-438e-91d7-e9596b1367ed\/index.html",
+            "slug": "reading-reflections\/chapter_7_face_to_face_with_design-md-1",
+            "order": "9",
+            "parent": "item-9d02df00-9501-4503-ba8e-246db0be86c6",
+            "title": "Chapter 7. Face to Face with Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-e48cba4d-8a6c-43d3-97d0-07d0fb0f0657",
+            "indent": "2",
+            "location": "pages\/item-e48cba4d-8a6c-43d3-97d0-07d0fb0f0657\/index.html",
+            "slug": "listening\/99_percent_invisible_10-000_years-md-1",
+            "order": "3",
+            "parent": "item-060986e9-b60d-46fa-91e1-344a9b4438f2",
+            "title": "99 Percent Invisible: 10,000 Years",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-ed266854-4053-4bb2-ae92-ce95385f7ddf",
+            "indent": "2",
+            "location": "pages\/item-ed266854-4053-4bb2-ae92-ce95385f7ddf\/index.html",
+            "slug": "projects\/ritual\/ritual-inspiration-md-1",
+            "order": "3",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Ritual Inspiration",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-ad3268d7-f8ac-4e85-88ae-e0111e205561",
+            "indent": "1",
+            "location": "pages\/item-ad3268d7-f8ac-4e85-88ae-e0111e205561\/index.html",
+            "slug": "reading-reflections\/chapter_8_giorgio_vasari_and_the_permutations_of_design-md-2",
+            "order": "3",
+            "parent": "item-91cc34b9-bec5-4d9c-8db4-95350e7742e6",
+            "title": "Chapter 8. Giorgio Vasari and the Permutations of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-8d4f1656-fef4-486b-b792-fcaab58e49ee",
+            "indent": "2",
+            "location": "pages\/item-8d4f1656-fef4-486b-b792-fcaab58e49ee\/index.html",
+            "slug": "reading-reflections\/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r-md-1",
+            "order": "3",
+            "parent": "item-ad3268d7-f8ac-4e85-88ae-e0111e205561",
+            "title": "Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-4fb2876d-a9a8-4ca5-8ead-30b78e89acbe",
+            "indent": "2",
+            "location": "pages\/item-4fb2876d-a9a8-4ca5-8ead-30b78e89acbe\/index.html",
+            "slug": "reading-reflections\/chapter_10_in_jeffersons_footsteps_modes_of_self-design-md-1",
+            "order": "5",
+            "parent": "item-ad3268d7-f8ac-4e85-88ae-e0111e205561",
+            "title": "Chapter 10. In Jefferson's Footsteps: Modes of Self-Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-38f2ad95-b031-4bf0-852b-68630da4f674",
+            "indent": "2",
+            "location": "pages\/item-38f2ad95-b031-4bf0-852b-68630da4f674\/index.html",
+            "slug": "watching\/andrew-stanton-the-clues-to-a-great-story-md-1",
+            "order": "3",
+            "parent": "item-bddf2440-e94d-4ced-a91f-f864ba0b02b5",
+            "title": "Andrew Stanton: The clues to a great story",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-4aa737de-e31f-4a01-b781-21d9d2323116",
+            "indent": "2",
+            "location": "pages\/item-4aa737de-e31f-4a01-b781-21d9d2323116\/index.html",
+            "slug": "projects\/narrative\/narrative-inspiration-md-1",
+            "order": "3",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Narrative Inspiration",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-60849639-9a89-4a1e-bb44-6829e13ca350",
+            "indent": "1",
+            "location": "pages\/item-60849639-9a89-4a1e-bb44-6829e13ca350\/index.html",
+            "slug": "watching\/open-structures-thomas-lommee-md-2",
+            "order": "3",
+            "parent": "item-1e584bfc-4fd2-4d99-b088-c03fec4b1710",
+            "title": "Open Structures: Thomas Lommee",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-f840f182-033d-463d-88a8-437e599b5838",
+            "indent": "2",
+            "location": "pages\/item-f840f182-033d-463d-88a8-437e599b5838\/index.html",
+            "slug": "reading-reflections\/chapter_12_liberty_as_knowledge_design-md-1",
+            "order": "3",
+            "parent": "item-10eb2ea3-469b-4d17-97a3-776da64655cd",
+            "title": "Chapter 12. Liberty as Knowledge Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-7f4a6bdf-fb3d-469f-a35d-e8ffa5bcf781",
+            "indent": "2",
+            "location": "pages\/item-7f4a6bdf-fb3d-469f-a35d-e8ffa5bcf781\/index.html",
+            "slug": "projects\/open_design\/discover-toy-design-research-md-1",
+            "order": "3",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Discover: Toy Design Research",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-ca632687-21ff-42ff-ac2b-b5c8a1152dc4",
+            "indent": "1",
+            "location": "pages\/item-ca632687-21ff-42ff-ac2b-b5c8a1152dc4\/index.html",
+            "slug": "listening\/creative_mornings_creativity_and_the_freedom_to_fa-md-2",
+            "order": "3",
+            "parent": "item-0ba7fa11-dfef-4ea3-9840-38018eebb9e7",
+            "title": "Creative Mornings: Creativity and the Freedom to Fail",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-7a9a8185-7ae0-42c0-8a66-bfcf37db6cbe",
+            "indent": "2",
+            "location": "pages\/item-7a9a8185-7ae0-42c0-8a66-bfcf37db6cbe\/index.html",
+            "slug": "listening\/freakonomics-how-to-become-great-at-just-about-anything-md-1",
+            "order": "3",
+            "parent": "item-ca632687-21ff-42ff-ac2b-b5c8a1152dc4",
+            "title": "Freakonomics: How to Become Great at Just About Anything",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3",
+            "indent": 0,
+            "location": "pages\/item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3\/index.html",
+            "slug": "lessons\/introduction-visual-and-interaction-design-md",
+            "order": "5",
+            "parent": null,
+            "title": "Lesson 2: Visual and interaction design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-1648e716-1243-4407-a7cc-7c50ab716829",
+            "indent": "1",
+            "location": "pages\/item-1648e716-1243-4407-a7cc-7c50ab716829\/index.html",
+            "slug": "lessons\/introduction-visual-and-interaction-design\/vox-its-not-you-bad-doors-are-everywhere-md",
+            "order": "5",
+            "parent": "item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3",
+            "title": "VOX: It's not you. Bad doors are everywhere.",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-140e2130-5359-4b5a-b710-77f46f5794fe",
+            "indent": "1",
+            "location": "pages\/item-140e2130-5359-4b5a-b710-77f46f5794fe\/index.html",
+            "slug": "listening\/99-percent-invisible-on-average-md",
+            "order": "7",
+            "parent": "item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3",
+            "title": "99 Percent Invisible: On Average",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "indent": "1",
+            "location": "pages\/item-34aa22fc-1668-4110-8858-5f40262a8b40\/index.html",
+            "slug": "projects\/ritual\/ritual_project-md",
+            "order": "9",
+            "parent": "item-31ce4bc4-7371-45f1-9cda-90e120f4f6e3",
+            "title": "Ritual Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ce043ba1-fe73-4173-a8c8-7b441a3ec914",
+            "indent": "2",
+            "location": "pages\/item-ce043ba1-fe73-4173-a8c8-7b441a3ec914\/index.html",
+            "slug": "projects\/ritual\/ritual_interview-md",
+            "order": "5",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Discover: Interview",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-4c69da8b-52bb-4274-9d0c-cb7b2b7d5658",
+            "indent": "2",
+            "location": "pages\/item-4c69da8b-52bb-4274-9d0c-cb7b2b7d5658\/index.html",
+            "slug": "projects\/ritual\/define-insights-md",
+            "order": "7",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Define: Themes and insights",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7a9e147a-ea61-4d15-b375-a97632a93179",
+            "indent": "2",
+            "location": "pages\/item-7a9e147a-ea61-4d15-b375-a97632a93179\/index.html",
+            "slug": "projects\/ritual\/define_hmw-md",
+            "order": "9",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Define: HMW",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-9068615c-c017-42e4-9893-6125f45a77d6",
+            "indent": "2",
+            "location": "pages\/item-9068615c-c017-42e4-9893-6125f45a77d6\/index.html",
+            "slug": "projects\/ritual\/develop-brainstorm-md",
+            "order": "11",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Develop: Brainstorm",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-0372fe99-4735-40db-9e0c-807c0be32ca5",
+            "indent": "2",
+            "location": "pages\/item-0372fe99-4735-40db-9e0c-807c0be32ca5\/index.html",
+            "slug": "projects\/ritual\/develop_storyboard-md",
+            "order": "13",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Develop: Storyboard",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-f1b1e244-9750-42b4-846c-7b079069b362",
+            "indent": "2",
+            "location": "pages\/item-f1b1e244-9750-42b4-846c-7b079069b362\/index.html",
+            "slug": "projects\/invisionapp-tutorial-md",
+            "order": "15",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "InvisionApp tutorials",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-bd14af9d-bf4a-486f-8d2c-e401f344033c",
+            "indent": "2",
+            "location": "pages\/item-bd14af9d-bf4a-486f-8d2c-e401f344033c\/index.html",
+            "slug": "projects\/ritual\/develop_prototype-md",
+            "order": "17",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Develop: Interactive wireframes",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-fe21bd87-385b-45e4-b0f7-bd323abdb7b5",
+            "indent": "2",
+            "location": "pages\/item-fe21bd87-385b-45e4-b0f7-bd323abdb7b5\/index.html",
+            "slug": "projects\/ritual\/develop_test_and_review-md",
+            "order": "19",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Develop: Test and review",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-6954233a-3c61-4e76-abd8-e1486c2ccd7c",
+            "indent": "2",
+            "location": "pages\/item-6954233a-3c61-4e76-abd8-e1486c2ccd7c\/index.html",
+            "slug": "projects\/ritual\/develop-iterate-prototype-md",
+            "order": "21",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Develop: Iterate wireframes",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-d98cea64-49f5-483c-9a72-3271e4a18760",
+            "indent": "2",
+            "location": "pages\/item-d98cea64-49f5-483c-9a72-3271e4a18760\/index.html",
+            "slug": "projects\/ritual\/deliver-final-prototype-md",
+            "order": "23",
+            "parent": "item-34aa22fc-1668-4110-8858-5f40262a8b40",
+            "title": "Deliver: Final prototype",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-fb95a60a-3cdd-49a6-b6e1-b29fc88acf9c",
+            "indent": "1",
+            "location": "pages\/item-fb95a60a-3cdd-49a6-b6e1-b29fc88acf9c\/index.html",
+            "slug": "watching\/creative-mornings-jordan-tannahill-md",
+            "order": "5",
+            "parent": "item-7faf883b-3690-484a-93d2-0de90cd0b334",
+            "title": "Creative Mornings: Jordan Tannahill",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-925bd699-8a39-4b36-88a1-f620846b531b",
+            "indent": "2",
+            "location": "pages\/item-925bd699-8a39-4b36-88a1-f620846b531b\/index.html",
+            "slug": "projects\/narrative\/discover_focus_words-md",
+            "order": "5",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Discover: Word-pairs",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3d191b89-e687-454c-9f7d-46901abba2a7",
+            "indent": "1",
+            "location": "pages\/item-3d191b89-e687-454c-9f7d-46901abba2a7\/index.html",
+            "slug": "reading-reflections\/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d-md",
+            "order": "5",
+            "parent": "item-b3b7c367-ebd7-4956-93a2-12e6eadbffec",
+            "title": "Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-06531d74-91a1-499b-8bbc-b1beb5fd5f87",
+            "indent": "2",
+            "location": "pages\/item-06531d74-91a1-499b-8bbc-b1beb5fd5f87\/index.html",
+            "slug": "reading-reflections\/chapter_13_corporate_redesign_and_the_business_of_knowledge-md",
+            "order": "5",
+            "parent": "item-3d191b89-e687-454c-9f7d-46901abba2a7",
+            "title": "Chapter 13. Corporate Redesign and the Business of Knowledge",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-c871cfb8-b9ae-469d-b3b2-b4e52e9fa650",
+            "indent": "2",
+            "location": "pages\/item-c871cfb8-b9ae-469d-b3b2-b4e52e9fa650\/index.html",
+            "slug": "reading-reflections\/chapter_14_designing_time-md",
+            "order": "7",
+            "parent": "item-3d191b89-e687-454c-9f7d-46901abba2a7",
+            "title": "Chapter 14. Designing Time",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-8cb43bae-4d02-4b90-8570-1e9145beef9b",
+            "indent": "2",
+            "location": "pages\/item-8cb43bae-4d02-4b90-8570-1e9145beef9b\/index.html",
+            "slug": "projects\/open_design\/discover_resources-md",
+            "order": "5",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Discover: Resources",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3d2e0c4d-65f9-40c7-a30d-dc4ff56435b3",
+            "indent": "1",
+            "location": "pages\/item-3d2e0c4d-65f9-40c7-a30d-dc4ff56435b3\/index.html",
+            "slug": "practice\/pathway-md",
+            "order": "5",
+            "parent": "item-29cf3a4f-03c0-42d5-99f9-ca2832ad6b73",
+            "title": "Pathway design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-0e7d0b23-3f5d-4899-929d-aad42eae6af6",
+            "indent": 0,
+            "location": "pages\/item-0e7d0b23-3f5d-4899-929d-aad42eae6af6\/index.html",
+            "slug": "lessons\/introduction-visual-and-interaction-design-md-1",
+            "order": "5",
+            "parent": null,
+            "title": "Lesson 2: Visual and interaction design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-54c9f50d-0104-41ab-b13f-144a0428c91a",
+            "indent": "1",
+            "location": "pages\/item-54c9f50d-0104-41ab-b13f-144a0428c91a\/index.html",
+            "slug": "lessons\/introduction-visual-and-interaction-design\/vox-its-not-you-bad-doors-are-everywhere-md-2",
+            "order": "5",
+            "parent": "item-0e7d0b23-3f5d-4899-929d-aad42eae6af6",
+            "title": "VOX: It's not you. Bad doors are everywhere.",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-060986e9-b60d-46fa-91e1-344a9b4438f2",
+            "indent": "1",
+            "location": "pages\/item-060986e9-b60d-46fa-91e1-344a9b4438f2\/index.html",
+            "slug": "listening\/99-percent-invisible-on-average-md-2",
+            "order": "7",
+            "parent": "item-0e7d0b23-3f5d-4899-929d-aad42eae6af6",
+            "title": "99 Percent Invisible: On Average",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "indent": "1",
+            "location": "pages\/item-6d266d83-f157-46de-8370-dcbc04bd2a4c\/index.html",
+            "slug": "projects\/ritual\/ritual_project-md-2",
+            "order": "9",
+            "parent": "item-0e7d0b23-3f5d-4899-929d-aad42eae6af6",
+            "title": "Ritual Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-93065ba9-d2cf-405d-b8e7-e632f5a87209",
+            "indent": "2",
+            "location": "pages\/item-93065ba9-d2cf-405d-b8e7-e632f5a87209\/index.html",
+            "slug": "projects\/ritual\/ritual_interview-md-1",
+            "order": "5",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Discover: Interview",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-cb7988ab-4baf-40a6-bc5e-483d1f10bc65",
+            "indent": "2",
+            "location": "pages\/item-cb7988ab-4baf-40a6-bc5e-483d1f10bc65\/index.html",
+            "slug": "projects\/ritual\/define-insights-md-1",
+            "order": "7",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Define: Themes and insights",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-9b5d22d4-f084-4c2b-b99a-d0b0e966306c",
+            "indent": "2",
+            "location": "pages\/item-9b5d22d4-f084-4c2b-b99a-d0b0e966306c\/index.html",
+            "slug": "projects\/ritual\/define_hmw-md-1",
+            "order": "9",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Define: HMW",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-a3bdec64-1009-4dcf-8526-800660f32b24",
+            "indent": "2",
+            "location": "pages\/item-a3bdec64-1009-4dcf-8526-800660f32b24\/index.html",
+            "slug": "projects\/ritual\/develop-brainstorm-md-1",
+            "order": "11",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Develop: Brainstorm",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-8c4867ec-acfa-498b-98ac-d9561193256e",
+            "indent": "2",
+            "location": "pages\/item-8c4867ec-acfa-498b-98ac-d9561193256e\/index.html",
+            "slug": "projects\/ritual\/develop_storyboard-md-1",
+            "order": "13",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Develop: Storyboard",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-957dee9b-f15c-4344-bb8d-4e749eae82f7",
+            "indent": "2",
+            "location": "pages\/item-957dee9b-f15c-4344-bb8d-4e749eae82f7\/index.html",
+            "slug": "projects\/invisionapp-tutorial-md-1",
+            "order": "15",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "InvisionApp tutorials",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-44beb945-4445-4b57-9103-5bba2de8640b",
+            "indent": "2",
+            "location": "pages\/item-44beb945-4445-4b57-9103-5bba2de8640b\/index.html",
+            "slug": "projects\/ritual\/develop_prototype-md-1",
+            "order": "17",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Develop: Interactive wireframes",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-7ba3209d-069c-4758-85b0-adb435f8e0d2",
+            "indent": "2",
+            "location": "pages\/item-7ba3209d-069c-4758-85b0-adb435f8e0d2\/index.html",
+            "slug": "projects\/ritual\/develop_test_and_review-md-1",
+            "order": "19",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Develop: Test and review",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-1c464b41-e3db-4d73-ba0d-5b55d212db1f",
+            "indent": "2",
+            "location": "pages\/item-1c464b41-e3db-4d73-ba0d-5b55d212db1f\/index.html",
+            "slug": "projects\/ritual\/develop-iterate-prototype-md-1",
+            "order": "21",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Develop: Iterate wireframes",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-dbfd3534-09ae-4fe2-bfb8-abc0902a4f6a",
+            "indent": "2",
+            "location": "pages\/item-dbfd3534-09ae-4fe2-bfb8-abc0902a4f6a\/index.html",
+            "slug": "projects\/ritual\/deliver-final-prototype-md-1",
+            "order": "23",
+            "parent": "item-6d266d83-f157-46de-8370-dcbc04bd2a4c",
+            "title": "Deliver: Final prototype",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-bddf2440-e94d-4ced-a91f-f864ba0b02b5",
+            "indent": "1",
+            "location": "pages\/item-bddf2440-e94d-4ced-a91f-f864ba0b02b5\/index.html",
+            "slug": "watching\/creative-mornings-jordan-tannahill-md-2",
+            "order": "5",
+            "parent": "item-91cc34b9-bec5-4d9c-8db4-95350e7742e6",
+            "title": "Creative Mornings: Jordan Tannahill",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-930a1ae3-2d40-4018-bcbb-12013370e80e",
+            "indent": "2",
+            "location": "pages\/item-930a1ae3-2d40-4018-bcbb-12013370e80e\/index.html",
+            "slug": "projects\/narrative\/discover_focus_words-md-1",
+            "order": "5",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Discover: Word-pairs",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-10eb2ea3-469b-4d17-97a3-776da64655cd",
+            "indent": "1",
+            "location": "pages\/item-10eb2ea3-469b-4d17-97a3-776da64655cd\/index.html",
+            "slug": "reading-reflections\/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d-md-2",
+            "order": "5",
+            "parent": "item-1e584bfc-4fd2-4d99-b088-c03fec4b1710",
+            "title": "Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-540849a5-653b-4589-bda2-fb0e5257b20e",
+            "indent": "2",
+            "location": "pages\/item-540849a5-653b-4589-bda2-fb0e5257b20e\/index.html",
+            "slug": "reading-reflections\/chapter_13_corporate_redesign_and_the_business_of_knowledge-md-1",
+            "order": "5",
+            "parent": "item-10eb2ea3-469b-4d17-97a3-776da64655cd",
+            "title": "Chapter 13. Corporate Redesign and the Business of Knowledge",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-f3f7e72b-8162-4bfe-9606-1cd8d4d049c8",
+            "indent": "2",
+            "location": "pages\/item-f3f7e72b-8162-4bfe-9606-1cd8d4d049c8\/index.html",
+            "slug": "reading-reflections\/chapter_14_designing_time-md-1",
+            "order": "7",
+            "parent": "item-10eb2ea3-469b-4d17-97a3-776da64655cd",
+            "title": "Chapter 14. Designing Time",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-677ad848-d600-4af2-a139-67757f8d983d",
+            "indent": "2",
+            "location": "pages\/item-677ad848-d600-4af2-a139-67757f8d983d\/index.html",
+            "slug": "projects\/open_design\/discover_resources-md-1",
+            "order": "5",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Discover: Resources",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-285313ab-e64a-4090-8a95-80bdbc0289e7",
+            "indent": "1",
+            "location": "pages\/item-285313ab-e64a-4090-8a95-80bdbc0289e7\/index.html",
+            "slug": "practice\/pathway-md-2",
+            "order": "5",
+            "parent": "item-0ba7fa11-dfef-4ea3-9840-38018eebb9e7",
+            "title": "Pathway design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-7faf883b-3690-484a-93d2-0de90cd0b334",
+            "indent": 0,
+            "location": "pages\/item-7faf883b-3690-484a-93d2-0de90cd0b334\/index.html",
+            "slug": "lessons\/introduction-storytelling-md",
+            "order": "7",
+            "parent": null,
+            "title": "Lesson 3: Storytelling",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-fd604aa2-5987-4ea5-a243-a1bc82e065ee",
+            "indent": "1",
+            "location": "pages\/item-fd604aa2-5987-4ea5-a243-a1bc82e065ee\/index.html",
+            "slug": "listening\/99_percent_invisible_of_mice_and_men-md",
+            "order": "7",
+            "parent": "item-7faf883b-3690-484a-93d2-0de90cd0b334",
+            "title": "99 Percent Invisible: Of Mice and Men",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "indent": "1",
+            "location": "pages\/item-ebf322bd-b9c2-4927-859e-b0f55ed5786c\/index.html",
+            "slug": "projects\/narrative\/hypertext-narrative_civic_imagination_project-md",
+            "order": "9",
+            "parent": "item-7faf883b-3690-484a-93d2-0de90cd0b334",
+            "title": "Hypertext Narrative introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-ca8200c3-880b-417d-b9ab-b1e4080889fb",
+            "indent": "2",
+            "location": "pages\/item-ca8200c3-880b-417d-b9ab-b1e4080889fb\/index.html",
+            "slug": "projects\/narrative\/define_the_way_it_was-md",
+            "order": "7",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Define: Synopsis",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-bb3b25ec-8ab8-4003-8cae-4551c917e78e",
+            "indent": "2",
+            "location": "pages\/item-bb3b25ec-8ab8-4003-8cae-4551c917e78e\/index.html",
+            "slug": "projects\/narrative\/develop_story_and_plot-md",
+            "order": "9",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Develop: Story and plot elements",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-93b7efc5-ab19-4492-b3e9-9ff4cf04262a",
+            "indent": "2",
+            "location": "pages\/item-93b7efc5-ab19-4492-b3e9-9ff4cf04262a\/index.html",
+            "slug": "projects\/narrative\/develop-characters-md",
+            "order": "11",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Develop: Characters",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-1f9cadaa-7f9b-41ab-9470-c47d8a7a69a1",
+            "indent": "2",
+            "location": "pages\/item-1f9cadaa-7f9b-41ab-9470-c47d8a7a69a1\/index.html",
+            "slug": "projects\/narrative\/develop-hypertext-narrative-draft-1-md",
+            "order": "13",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Develop: Hypertext narrative draft 1",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-7a015ef4-6fba-427a-8484-ae9aed4863f5",
+            "indent": "2",
+            "location": "pages\/item-7a015ef4-6fba-427a-8484-ae9aed4863f5\/index.html",
+            "slug": "projects\/narrative\/tutorials-md",
+            "order": "15",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Tutorials",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-19fdf3cf-fe54-4d1e-86bf-80d321ca05a0",
+            "indent": "2",
+            "location": "pages\/item-19fdf3cf-fe54-4d1e-86bf-80d321ca05a0\/index.html",
+            "slug": "projects\/narrative\/develop-feedback-md",
+            "order": "17",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Develop: Feedback",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-3e58cf97-efc2-4d4f-b670-57b84ee6156a",
+            "indent": "2",
+            "location": "pages\/item-3e58cf97-efc2-4d4f-b670-57b84ee6156a\/index.html",
+            "slug": "projects\/narrative\/deliver-hypertext-narrative-draft-2-md",
+            "order": "19",
+            "parent": "item-ebf322bd-b9c2-4927-859e-b0f55ed5786c",
+            "title": "Deliver: Hypertext narrative draft 2",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "indent": "1",
+            "location": "pages\/item-c703e29b-2490-4a00-b959-245c19a8f9b3\/index.html",
+            "slug": "projects\/open_design\/open_design_project-md",
+            "order": "7",
+            "parent": "item-b3b7c367-ebd7-4956-93a2-12e6eadbffec",
+            "title": "Open Design Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-59379815-1a9c-434b-8a49-7bcef376ba0d",
+            "indent": "2",
+            "location": "pages\/item-59379815-1a9c-434b-8a49-7bcef376ba0d\/index.html",
+            "slug": "projects\/open_design\/discover-modular-design-research-md",
+            "order": "7",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Discover: Modular Design Research",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-10517251-08bb-4cbb-90ff-a5f8ca5bdb2b",
+            "indent": "2",
+            "location": "pages\/item-10517251-08bb-4cbb-90ff-a5f8ca5bdb2b\/index.html",
+            "slug": "projects\/open_design\/define-product-pitch-md",
+            "order": "9",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Define: Product pitch",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-74cc0ae8-40c5-41a5-9b5c-6e49f6cc165f",
+            "indent": "2",
+            "location": "pages\/item-74cc0ae8-40c5-41a5-9b5c-6e49f6cc165f\/index.html",
+            "slug": "projects\/open_design\/develop_mvp_prototype-md",
+            "order": "11",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Develop: MVP Prototype",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-59109386-1c3b-47a7-83db-aea1258ef585",
+            "indent": "2",
+            "location": "pages\/item-59109386-1c3b-47a7-83db-aea1258ef585\/index.html",
+            "slug": "projects\/open_design\/develop_instructions-md",
+            "order": "13",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Develop: Instructions",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-e66c4418-6502-42f4-9665-33407143db46",
+            "indent": "2",
+            "location": "pages\/item-e66c4418-6502-42f4-9665-33407143db46\/index.html",
+            "slug": "projects\/open_design\/develop_user_testing-md",
+            "order": "15",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Develop: Test",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-4b935ad4-af51-40c2-b0bb-fcc3933d3862",
+            "indent": "2",
+            "location": "pages\/item-4b935ad4-af51-40c2-b0bb-fcc3933d3862\/index.html",
+            "slug": "projects\/open_design\/develop-iterate-md",
+            "order": "17",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Develop: Iterate",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-077ee033-3a22-4945-a18e-82b5c4e1b8df",
+            "indent": "2",
+            "location": "pages\/item-077ee033-3a22-4945-a18e-82b5c4e1b8df\/index.html",
+            "slug": "projects\/open_design\/deliver_open_design-md",
+            "order": "19",
+            "parent": "item-c703e29b-2490-4a00-b959-245c19a8f9b3",
+            "title": "Deliver: Project documentation",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-91cc34b9-bec5-4d9c-8db4-95350e7742e6",
+            "indent": 0,
+            "location": "pages\/item-91cc34b9-bec5-4d9c-8db4-95350e7742e6\/index.html",
+            "slug": "lessons\/introduction-storytelling-md-1",
+            "order": "7",
+            "parent": null,
+            "title": "Lesson 3: Storytelling",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-23968e05-85b2-483c-a7da-d2062fe6267e",
+            "indent": "1",
+            "location": "pages\/item-23968e05-85b2-483c-a7da-d2062fe6267e\/index.html",
+            "slug": "listening\/99_percent_invisible_of_mice_and_men-md-2",
+            "order": "7",
+            "parent": "item-91cc34b9-bec5-4d9c-8db4-95350e7742e6",
+            "title": "99 Percent Invisible: Of Mice and Men",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "indent": "1",
+            "location": "pages\/item-0e84cfd6-219e-4855-b567-7d26a7b53934\/index.html",
+            "slug": "projects\/narrative\/hypertext-narrative_civic_imagination_project-md-2",
+            "order": "9",
+            "parent": "item-91cc34b9-bec5-4d9c-8db4-95350e7742e6",
+            "title": "Hypertext Narrative introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-9cecb660-5f64-4bc3-b23f-ea34f1c2ef4b",
+            "indent": "2",
+            "location": "pages\/item-9cecb660-5f64-4bc3-b23f-ea34f1c2ef4b\/index.html",
+            "slug": "projects\/narrative\/define_the_way_it_was-md-1",
+            "order": "7",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Define: Synopsis",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-658ecfda-241a-4c07-93b9-3932f84da9af",
+            "indent": "2",
+            "location": "pages\/item-658ecfda-241a-4c07-93b9-3932f84da9af\/index.html",
+            "slug": "projects\/narrative\/develop_story_and_plot-md-1",
+            "order": "9",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Develop: Story and plot elements",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-145eb7d3-8ec3-48a1-b653-2d5fa5f92dd9",
+            "indent": "2",
+            "location": "pages\/item-145eb7d3-8ec3-48a1-b653-2d5fa5f92dd9\/index.html",
+            "slug": "projects\/narrative\/develop-characters-md-1",
+            "order": "11",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Develop: Characters",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-585b12ef-0be8-42d9-8566-eb8fdfa432ef",
+            "indent": "2",
+            "location": "pages\/item-585b12ef-0be8-42d9-8566-eb8fdfa432ef\/index.html",
+            "slug": "projects\/narrative\/develop-hypertext-narrative-draft-1-md-1",
+            "order": "13",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Develop: Hypertext narrative draft 1",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-c991cd57-343e-4ab7-a565-e301cba599f2",
+            "indent": "2",
+            "location": "pages\/item-c991cd57-343e-4ab7-a565-e301cba599f2\/index.html",
+            "slug": "projects\/narrative\/tutorials-md-1",
+            "order": "15",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Tutorials",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-0022bbac-fcab-4aa3-8efa-ea2f380c213c",
+            "indent": "2",
+            "location": "pages\/item-0022bbac-fcab-4aa3-8efa-ea2f380c213c\/index.html",
+            "slug": "projects\/narrative\/develop-feedback-md-1",
+            "order": "17",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Develop: Feedback",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-827b83b5-b87f-4904-ba00-75fabf12f3e7",
+            "indent": "2",
+            "location": "pages\/item-827b83b5-b87f-4904-ba00-75fabf12f3e7\/index.html",
+            "slug": "projects\/narrative\/deliver-hypertext-narrative-draft-2-md-1",
+            "order": "19",
+            "parent": "item-0e84cfd6-219e-4855-b567-7d26a7b53934",
+            "title": "Deliver: Hypertext narrative draft 2",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "indent": "1",
+            "location": "pages\/item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c\/index.html",
+            "slug": "projects\/open_design\/open_design_project-md-2",
+            "order": "7",
+            "parent": "item-1e584bfc-4fd2-4d99-b088-c03fec4b1710",
+            "title": "Open Design Project Introduction",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-f586ceb7-1003-4b75-9d04-991dd052ec6f",
+            "indent": "2",
+            "location": "pages\/item-f586ceb7-1003-4b75-9d04-991dd052ec6f\/index.html",
+            "slug": "projects\/open_design\/discover-modular-design-research-md-1",
+            "order": "7",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Discover: Modular Design Research",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-9983c9c5-7f57-4a5b-9ba1-a0f92084060c",
+            "indent": "2",
+            "location": "pages\/item-9983c9c5-7f57-4a5b-9ba1-a0f92084060c\/index.html",
+            "slug": "projects\/open_design\/define-product-pitch-md-1",
+            "order": "9",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Define: Product pitch",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-3c6310bf-fa9e-4935-a20d-336414d0e7d4",
+            "indent": "2",
+            "location": "pages\/item-3c6310bf-fa9e-4935-a20d-336414d0e7d4\/index.html",
+            "slug": "projects\/open_design\/develop_mvp_prototype-md-1",
+            "order": "11",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Develop: MVP Prototype",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-ba7bb9fb-dcdb-469b-bab0-ef1e64019da2",
+            "indent": "2",
+            "location": "pages\/item-ba7bb9fb-dcdb-469b-bab0-ef1e64019da2\/index.html",
+            "slug": "projects\/open_design\/develop_instructions-md-1",
+            "order": "13",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Develop: Instructions",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-81a3a37b-b0c0-4728-9a91-9fdeec54346d",
+            "indent": "2",
+            "location": "pages\/item-81a3a37b-b0c0-4728-9a91-9fdeec54346d\/index.html",
+            "slug": "projects\/open_design\/develop_user_testing-md-1",
+            "order": "15",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Develop: Test",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-c5ba1c51-2129-4c02-aa56-bc886d527f16",
+            "indent": "2",
+            "location": "pages\/item-c5ba1c51-2129-4c02-aa56-bc886d527f16\/index.html",
+            "slug": "projects\/open_design\/develop-iterate-md-1",
+            "order": "17",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Develop: Iterate",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-d4297ac0-5bd6-4b22-991e-cb3444e7d0df",
+            "indent": "2",
+            "location": "pages\/item-d4297ac0-5bd6-4b22-991e-cb3444e7d0df\/index.html",
+            "slug": "projects\/open_design\/deliver_open_design-md-1",
+            "order": "19",
+            "parent": "item-eba6292a-50a6-4425-b3e7-a9dc1fb15e7c",
+            "title": "Deliver: Project documentation",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-b3b7c367-ebd7-4956-93a2-12e6eadbffec",
+            "indent": 0,
+            "location": "pages\/item-b3b7c367-ebd7-4956-93a2-12e6eadbffec\/index.html",
+            "slug": "lessons\/introduction-open-design-md",
+            "order": "9",
+            "parent": null,
+            "title": "Lesson 4: Open design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-1e584bfc-4fd2-4d99-b088-c03fec4b1710",
+            "indent": 0,
+            "location": "pages\/item-1e584bfc-4fd2-4d99-b088-c03fec4b1710\/index.html",
+            "slug": "lessons\/introduction-open-design-md-1",
+            "order": "9",
+            "parent": null,
+            "title": "Lesson 4: Open design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-29cf3a4f-03c0-42d5-99f9-ca2832ad6b73",
+            "indent": 0,
+            "location": "pages\/item-29cf3a4f-03c0-42d5-99f9-ca2832ad6b73\/index.html",
+            "slug": "lessons\/introduction-self-design-md",
+            "order": "11",
+            "parent": null,
+            "title": "Lesson 5: Self design",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-0ba7fa11-dfef-4ea3-9840-38018eebb9e7",
+            "indent": 0,
+            "location": "pages\/item-0ba7fa11-dfef-4ea3-9840-38018eebb9e7\/index.html",
+            "slug": "lessons\/introduction-self-design-md-1",
+            "order": "11",
+            "parent": null,
+            "title": "Lesson 5: Self design",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        },
+        {
+            "id": "item-09ab2b4b-6746-487e-a56e-0ab3ae8d7477",
+            "indent": 0,
+            "location": "..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/..\/etc\/hostname",
+            "slug": "license-md",
+            "order": "13",
+            "parent": null,
+            "title": "License",
+            "description": "",
+            "metadata": {
+                "created": 1744330854,
+                "updated": 1744330854
+            }
+        },
+        {
+            "id": "item-712f526a-4b72-477b-b11d-f53e13dee490",
+            "indent": 0,
+            "location": "pages\/item-712f526a-4b72-477b-b11d-f53e13dee490\/index.html",
+            "slug": "license-md-1",
+            "order": "13",
+            "parent": null,
+            "title": "License",
+            "description": "",
+            "metadata": {
+                "created": 1744330855,
+                "updated": 1744330855
+            }
+        }
+    ],
+    "location": "\/jxs7245\/sites\/womp\/index.html"
+}
